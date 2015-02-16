@@ -1,4 +1,5 @@
 # HomeworkSolver
+Created by a few members of California High School's G++ club
 
 A app to solve equations from your android phone
 
